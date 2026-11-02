@@ -1,6 +1,6 @@
-Hi 👋, I'm Soo Hui Xin
+# Hi 👋, I'm Soo Hui Xin
 
-Final-Year Diploma in Computer Science Student | TAR UMT
+### Final Year Diploma in Computer Science Student @ TAR UMT
 
 I'm a final-year Computer Science diploma student at Tunku Abdul Rahman University of Management and Technology (TAR UMT), with hands-on experience in software development, database systems, and AI-related projects.
 
